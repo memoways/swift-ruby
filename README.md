@@ -1,3 +1,8 @@
+## THIS REPOSITORY IS NO LONGER MAINTAINED
+
+New repository home: <https://github.com/PredicSis/swift-ruby>
+
+
 # Swift::Ruby
 
 Ruby client for Openstack swift
